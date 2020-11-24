@@ -9,4 +9,4 @@ Write a simple programme which will ask the user if they would like to pay in eu
 - This can all be done inside of a mainline (no need to write extra classes)
 - Store the checkoutTotal and exchangeRate as variables in your programme
 - Ask the user if they want to pay in pounds or euros
-- Based on what the user answers, print out the price they will pay either in the correct currency
+- Based on what the user answers, print out the price they will pay in the correct currency
