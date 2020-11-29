@@ -1,5 +1,8 @@
 # Black Jack
 
+<p align="middle"> 
+<img width ="300px" src="https://www.pngkit.com/png/full/154-1547540_blackjack-en-lnea-blackjack-blackjack.png" />
+<p>
 
 ### Basic implementation
 
